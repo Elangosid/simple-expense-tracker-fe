@@ -3,7 +3,7 @@ import axios from "axios";
 const userId = "user-123";
 
 const api = axios.create({
-  baseURL: "http://localhost:5000/api",
+  baseURL: "https://sribackend.duckdns.org/api",
   headers: {
     "Content-Type": "application/json",
   },
