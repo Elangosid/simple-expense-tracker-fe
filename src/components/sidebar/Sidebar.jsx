@@ -1,4 +1,4 @@
-// src/components/sidebar/Sidebar.jsx
+
 import { Link, useLocation } from "react-router-dom";
 
 function Sidebar() {

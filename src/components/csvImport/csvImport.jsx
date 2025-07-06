@@ -1,4 +1,3 @@
-// src/components/CSVImport.js
 import React, { useState } from "react";
 import { useDispatch } from "react-redux";
 import { importCSV } from "../../features/expense/expenseSlice";
